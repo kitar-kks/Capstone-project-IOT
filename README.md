@@ -1,2 +1,2 @@
-# Capstone-project-IOT
-Get the dust off (IOT)
+# Capstone-project-IoT
+Get the dust off (IoT)
